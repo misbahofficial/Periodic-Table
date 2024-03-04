@@ -1,0 +1,16 @@
+{
+    "element": {
+        "1": {
+            "name": "Hydrogen",
+            "atomic number": 1,
+            "ram": 1.001,
+            "chemical formulae": "H"
+        },
+        "2": {
+            "name": "Helium",
+            "atomic number": 2,
+            "ram": 4.0,
+            "chemical formulae": "He"
+        }
+    }
+}
